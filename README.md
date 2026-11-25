@@ -1,3 +1,11 @@
+<div align="center">
+<img src="assets/logo.png?v=1" width="280">
+
+<p>The 3AM fridge text.</p>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FF7A00&color=0A1931)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-FF7A00?style=for-the-badge&labelColor=0A1931&color=FF7A00)](https://opensource.org/licenses/MIT) [![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-FF7A00?style=for-the-badge&labelColor=0A1931&color=FF7A00)](https://github.com/kontenlaris-studio)
+</div>
+
 # fridge-text-01
 
 [![make.fun · u-deysumbrella-the-3am-fridge-text-4c3e721d](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-the-3am-fridge-text-4c3e721d)
